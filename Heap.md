@@ -1,4 +1,4 @@
-### list of Questions
+### List of Questions
 1. Binary Heap Operations
 2. Heap Sort
 
